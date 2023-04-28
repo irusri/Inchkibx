@@ -1,0 +1,18 @@
+{
+  "row_onclick": "callback function for click on the heatmap row event",
+  "row_onmouseover": "callback function for mouse cursor over the heatmap row event",
+  "row_onmouseout": "callback function for mouse cursor out of the heatmap row event",
+  "dendrogram_node_onclick": "callback function for dendrogram node click event",
+  "column_dendrogram_node_onclick": "callback function for column dendrogram click event",
+  "dendrogram_node_highlight": "callback function for the dendrogram node highlight event",
+  "column_dendrogram_node_highlight": "callback function for the column dendrogram node highlight event",
+  "dendrogram_node_unhighlight": "callback function for the dendrogram node unhighlight event",
+  "column_dendrogram_node_unhighlight": "callback function for the column dendrogram node unhighlight event",
+  "heatmap_onmouseout": "callback function for mouse cursor out of the heatmap area",
+  "on_zoom": "callback function for zoom event",
+  "on_unzoom": "callback function for unzoom event",
+  "on_columns_zoom": "callback function for columns zoom event",
+  "on_columns_unzoom": "callback function for columns unzoom event",
+  "on_refresh": "callback function for refresh icon click event",
+  "empty_space_onclick": "callback function for click on empty(inactive) space in the visualization (e.g., around the heatmap)"
+}
