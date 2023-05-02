@@ -1,6 +1,6 @@
 {
   "name": "inchlibx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Interactive cluster heatmap with custom functions",
   "main": "index.js",
   "directories": {
